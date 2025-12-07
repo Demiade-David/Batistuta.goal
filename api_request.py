@@ -9,5 +9,7 @@ api_url= "https://jsonplaceholder.typicode.com/users"
 response = requests.get(api_url)
 data = response.json()
 
+data.append({"name": "John Doe", "username": "johndoe", "email":input("Enter email: ")})
+
 print("User List: data")
 
