@@ -1,0 +1,34 @@
+[
+    {
+        "item": "Beans",
+        "quantity": "2",
+        "amount": "2000",
+        "date": "2025-11-16"
+    },
+    {
+        "item": "flowers",
+        "quantity": "1",
+        "amount": "2800",
+        "date": "2025-11-16"
+    },
+    {
+        "firstname": "David",
+        "lastname": "",
+        "age": "12"
+    },
+    {
+        "firstname": "David",
+        "lastname": "Queen",
+        "age": "12"
+    },
+    {
+        "firstname": "David",
+        "lastname": "Joe",
+        "age": "13"
+    },
+    {
+        "firstname": "David",
+        "lastname": "Singh",
+        "age": "15"
+    }
+]
