@@ -1,3 +1,4 @@
+
 import requests
 # 100-199 info
 # 200-299 success
@@ -10,7 +11,6 @@ response = requests.get(api_url)
 data = response.json()
 
 data.append({"name": "John Doe", "username": "johndoe", "email":input("Enter email: ")})
-
 print("User List: data")
 
 # https://github.com/Demiade-David/Batistuta.goal
